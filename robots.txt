@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pamancaishen.github.io/qris/sitemap.xml
